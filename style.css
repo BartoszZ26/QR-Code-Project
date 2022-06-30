@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-body {
+html, body {
+    height: 100%;
+    margin: 0;
     background-color: hsl(212, 45%, 89%);
 }
 figure img {
@@ -8,13 +10,15 @@ figure img {
 }
 .center-horizontal-vertical { 
     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 p {
     font-size: 15px;
     font-family: 'Outfit', 'Verdana', 'Arial';
 }
 figure {
-    margin: auto;
     text-align: center;
     background-color: white;
     width: 250px;
