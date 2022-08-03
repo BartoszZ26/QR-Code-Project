@@ -33,11 +33,3 @@ figure p {
     text-align: center;
     margin-bottom: 1.5rem;
 }
-p a {
-    color: hsl(218, 44%, 22%);
-    text-decoration: none;
-    transition: color 0.2s ease-out;
-}
-p a:hover {
-    color: #2B7DFA;
-}
