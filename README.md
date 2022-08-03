@@ -16,8 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/simple-qr-code-container-with-a-description-Ew0knjAwue)
 - Live Site URL: [Github Pages](https://bartoszz26.github.io/QR-Code-Project/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
